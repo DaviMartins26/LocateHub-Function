@@ -4,5 +4,5 @@ app.setup({
     enableHttpStream: true,
 });
 
-// deve fazer funcionar
-require('./CalcularAluguel.js');
+// deve fazer funcionar dnv
+require('./functions/CalcularAluguel.js');
